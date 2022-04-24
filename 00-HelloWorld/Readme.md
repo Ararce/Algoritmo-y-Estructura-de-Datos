@@ -21,3 +21,4 @@
 11.La última tarea es informar el usuario GitHub en la lista indicada en el curso.
 
 • Hipótesis de trabajo que surgen luego de leer el enunciado
+• Compilador seleccionado: Dev-C++
