@@ -24,6 +24,6 @@
 • Hipótesis de trabajo que surgen luego de leer el enunciado
 
 Familiarizarnos con el entorno GitHub para llevar a cabo las entregas de los trabajos.
-Seleccion de compilador, funcionamiento y carga de diferentes de ciertos resultados obtenidos.
+Seleccion de compilador, funcionamiento y carga de ciertos resultados obtenidos.
 
 
