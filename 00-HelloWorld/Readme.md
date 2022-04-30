@@ -2,10 +2,11 @@
 • Nombre del equipo:
 • Autores de la resolución:
 ◦ Usuario github: Ararce
-◦ Legajo:
+◦ Legajo: 175.382-4
 ◦ Apellido: Arce 
 ◦ Nombre: Ariel
 • Número y título del trabajo: 00-HelloWorld
+• Compilador seleccionado: Dev-C++
 • Transcripción del enunciado.
 
 1. Si no posee una cuenta GitHub, crearla.
@@ -21,4 +22,8 @@
 11.La última tarea es informar el usuario GitHub en la lista indicada en el curso.
 
 • Hipótesis de trabajo que surgen luego de leer el enunciado
-• Compilador seleccionado: Dev-C++
+
+Familiarizarnos con el entorno GitHub para llevar a cabo las entregas de los trabajos.
+Seleccion de compilador, funcionamiento y carga de diferentes de ciertos resultados obtenidos.
+
+
